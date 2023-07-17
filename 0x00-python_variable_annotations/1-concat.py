@@ -4,7 +4,7 @@
 """
 
 
-def add(str1: str, str2: str) -> str:
+def concat(str1: str, str2: str) -> str:
     """
         :param str1:
         :param str2:
