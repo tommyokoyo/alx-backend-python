@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 sum_mixed_list = __import__('6-sum_mixed_list').sum_mixed_list
 
 print(sum_mixed_list.__annotations__)
